@@ -1,47 +1,142 @@
 [
-  {
-    "key": "datr",
-    "value": "7mixZXaCayLSVbQHji9M3Bwp",
-    "domain": "facebook.com",
-    "path": "/",
-    "hostOnly": false,
-    "creation": "2024-01-27T11:33:44.943Z",
-    "lastAccessed": "2024-01-27T11:33:47.887Z"
-  },
-  {
-    "key": "fr",
-    "value": "0FIMdSoo6oCpa3cSh.AWVqYupOCdXlHGa_g2uQOlanxxo.BlsWj2.Ok.AAA.0.0.Bls8mR.AWVTtQ1Nxds",
-    "domain": "facebook.com",
-    "path": "/",
-    "hostOnly": false,
-    "creation": "2024-01-27T11:33:45.004Z",
-    "lastAccessed": "2024-01-27T11:33:47.887Z"
-  },
-  {
-    "key": "xs",
-    "value": "28%3AswiygvIMFbYvWA%3A2%3A1706281361%3A-1%3A5345",
-    "domain": "facebook.com",
-    "path": "/",
-    "hostOnly": false,
-    "creation": "2024-01-27T11:33:45.009Z",
-    "lastAccessed": "2024-01-27T11:33:47.887Z"
-  },
-  {
-    "key": "c_user",
-    "value": "100013249418037",
-    "domain": "facebook.com",
-    "path": "/",
-    "hostOnly": false,
-    "creation": "2024-01-27T11:33:45.026Z",
-    "lastAccessed": "2024-01-27T11:33:47.887Z"
-  },
-  {
-    "key": "sb",
-    "value": "9mixZTby2LwPmaEXkvNbOILv",
-    "domain": "facebook.com",
-    "path": "/",
-    "hostOnly": false,
-    "creation": "2024-01-27T11:33:45.027Z",
-    "lastAccessed": "2024-01-27T11:33:47.887Z"
-  }
+    {
+        "domain": "github.com",
+        "expirationDate": 1708090915.802164,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__Host-user_session_same_site",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "IKsyzfDFQd4WCEi1NFXhj0xBOf88iZcovruhqEFrioJZwAm-"
+    },
+    {
+        "domain": ".github.com",
+        "expirationDate": 1738247862.296433,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "dotcom_user",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "mdesrafil427"
+    },
+    {
+        "domain": "github.com",
+        "expirationDate": 1706886678.561818,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "has_recent_activity",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": "github.com",
+        "expirationDate": 1714401462.295927,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "saved_user_sessions",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "150465059%3AM0K-JO-0i4axzBG4dACzJ1s9DNvrI6PzwZHc7XZ99fAWXa1T%7C150464584%3AIKsyzfDFQd4WCEi1NFXhj0xBOf88iZcovruhqEFrioJZwAm-"
+    },
+    {
+        "domain": "github.com",
+        "expirationDate": 1731251423.313181,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "_device_id",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0a8121bceb295243628800839312d228"
+    },
+    {
+        "domain": "github.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "_gh_sess",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "7QbD9%2B4QwiH7rIzxTvCPOnTQ%2F5qiWD74UdVOAzWMOwC%2FhEJaTzdmsryYUvQo8fCCOhLA858%2FurDHI1xoHKjbs6V4gtzCaYX%2F0jMTyxcTLIEtTIvA38yGnzerI5S6wp8ETJ9Bpg%2BDoiBHT0JWO7ETdhJraXjooAALiiDBZXw81mlLXbcUIr5dMX4nSd3TNZ%2FaL5quZYcDARDt%2BeWhWoQAVhgSjc%2BVGkxYSRjqE49mQl8b%2BUQhXa6Ov7Wdn3Zx6rg5pkZGdBQPvs%2FUafQL5AvJX3cNe%2FmPOIS8B93DVPQq%2FcM%3D--zG9BVxjG0knhQsMh--fO0%2BrIrNIjRfFpLJJU6R7Q%3D%3D"
+    },
+    {
+        "domain": ".github.com",
+        "expirationDate": 1730187309.791469,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_octo",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "GH1.1.1733118562.1698564909"
+    },
+    {
+        "domain": ".github.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "color_mode",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D"
+    },
+    {
+        "domain": ".github.com",
+        "expirationDate": 1738247862.296322,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "logged_in",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "yes"
+    },
+    {
+        "domain": ".github.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "preferred_color_mode",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "dark"
+    },
+    {
+        "domain": "github.com",
+        "expirationDate": 1708090915.802058,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "user_session",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "IKsyzfDFQd4WCEi1NFXhj0xBOf88iZcovruhqEFrioJZwAm-"
+    }
 ]
